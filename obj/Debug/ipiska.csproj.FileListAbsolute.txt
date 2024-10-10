@@ -1,0 +1,7 @@
+C:\Users\Noteburg\source\repos\ipiska\bin\Debug\ipiska.exe.config
+C:\Users\Noteburg\source\repos\ipiska\bin\Debug\ipiska.exe
+C:\Users\Noteburg\source\repos\ipiska\bin\Debug\ipiska.pdb
+C:\Users\Noteburg\source\repos\ipiska\obj\Debug\ipiska.csproj.AssemblyReference.cache
+C:\Users\Noteburg\source\repos\ipiska\obj\Debug\ipiska.csproj.CoreCompileInputs.cache
+C:\Users\Noteburg\source\repos\ipiska\obj\Debug\ipiska.exe
+C:\Users\Noteburg\source\repos\ipiska\obj\Debug\ipiska.pdb
