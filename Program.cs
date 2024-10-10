@@ -10,7 +10,7 @@ namespace ipiska
     {
         static void Main(string[] args)
         {
-            int a, b, resultadd, resultsub, resultmult;
+            int a, b, resultadd, resultsub, resultmult,resultdiv;
             Console.WriteLine("vvedite pervoe pislo");
             a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("vvedite vtoroe 4islo");
@@ -21,6 +21,8 @@ namespace ipiska
             Console.WriteLine("Raznost' = " + resultsub);
             resultmult = a * b;
             Console.WriteLine("Umnozh = " + resultmult);
+            resultdiv = a / b;
+            Console.WriteLine("delenie = " + resultdiv);
             Console.ReadKey();
         }
     }
